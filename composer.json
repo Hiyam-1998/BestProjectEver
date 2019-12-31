@@ -1,0 +1,13 @@
+{
+    "name": "hiyam/best-project-ever",
+    "authors": [
+        {
+            "name": "Hiyam-1998",
+            "email": "52197011+Hiyam-1998@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php":"*"
+    }
+}
